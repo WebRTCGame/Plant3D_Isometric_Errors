@@ -1,2 +1,2 @@
-# Plant3D_Isometric_Errors
-Autodesk AutoCAD Plant3D Isometric Errors
+# Autodesk AutoCAD Plant 3D Isometric Errors
+I am just planning to list all of the isometric errors I run into and the solutions found for them.
