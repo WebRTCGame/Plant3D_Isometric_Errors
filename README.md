@@ -14,7 +14,10 @@ File: IsoCreationLog.txt
 6. There was an error reading from the pipe: The pipe has been ended. (109, 0x6d).
 7. Unrecognized error 109 (0x6d)
 8. FAILURE - The given key was not present in the dictionary.
-9. "Errors encountered" 
+9. "Errors encountered"
+10. Array dimensions exceed supported range
+11. FAILURE - Value cannot be null
+
 
 ## Warnings
 1. WARNING - SKEY to block mapping not found for current component.
