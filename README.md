@@ -6,3 +6,7 @@ I am just planning to list all of the isometric errors I run into and the soluti
 2. FAILURE - Object reference not set to an instance of an object
 3. FAILURE - eInvalidExtents
 4. FAILURE - Illegal characters in path
+5. 
+
+## Warnings
+1. WARNING - SKEY to block mapping not found for current component.
