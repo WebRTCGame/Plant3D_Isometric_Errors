@@ -17,8 +17,11 @@ File: IsoCreationLog.txt
 9. "Errors encountered"
 10. Array dimensions exceed supported range
 11. FAILURE - Value cannot be null
+12. ERROR   - Failed to sort the data table.
 
 
 ## Warnings
 1. WARNING - SKEY to block mapping not found for current component.
 2. WARNING - Invalid filter expression:
+3. WARNING - Disconnects were found in model of Line Number
+4. WARNING - Lone components were found in model of Line Number
